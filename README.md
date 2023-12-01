@@ -1,1 +1,1 @@
-# djangoherokudeploy
+# .sh script to make deploying easier
